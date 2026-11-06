@@ -1,5 +1,7 @@
 fastmcp
+mcp
 httpx
 pydantic
 pydantic-settings
 uvicorn
+starlette
